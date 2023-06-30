@@ -20,3 +20,11 @@
 
 
 }
+
+.redes a {
+    display: block;
+}
+
+.redes li {
+    display: inline-block;
+}
